@@ -1,7 +1,7 @@
 # Xo Game Center
 
 
-A simple site to play simple games
+# A simple site to play simple games
 
 
 
