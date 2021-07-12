@@ -1,0 +1,13 @@
+main {
+    background-color: rgb(0, 76, 143);
+    color: rgb(255, 221, 126);
+    width: 80%;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 4em;
+    border-radius: 25px;
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
